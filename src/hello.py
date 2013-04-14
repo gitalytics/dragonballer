@@ -1,5 +1,7 @@
 """
 hello.py
+
+this script takes no arguments.
 """
 
 def main():
