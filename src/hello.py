@@ -8,7 +8,7 @@ def main():
     """
     main
 
-    this does stuff
+    this does stuff all the time anytime any place
     """
     print('Hello, World!')
 
