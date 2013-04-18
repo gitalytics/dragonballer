@@ -1,7 +1,7 @@
 """
 hello.py
 
-this script takes no arguments.
+this script takes no arguments (for now).
 """
 
 def main():
