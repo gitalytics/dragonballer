@@ -18,3 +18,11 @@ provided by this repository.
 
   - between d8d5bf4dba7615405351f3eade39de777faf39a1 and
     1f701d419d949b6d55749962207404745a30763e
+  - between 5e173093e893542c02459c253dd4058dd4d03ced and
+    ab1b6c65ee8c43f9f0c389efab1ec6597fec8b3f
+
+- a feature branch that temporarily branched from itself to make a
+  fix with other intermitent changes to master branch:
+
+  - between 02e41880fff00fdc7631d3a372aeb966b5cb00ce and
+    08c1ef9cd3eb22094365f769e5ffb0a297677ac9
