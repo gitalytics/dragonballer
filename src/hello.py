@@ -12,13 +12,13 @@ def main():
     """
     say_hello()
 
-def say_hello():
+def say_hello(name="World"):
     """
     say_hello
 
     this function will print out a nice hello world message
     """
-    print('Hello, World!')
+    print('Hello, ' + name + '!')
 
 if __name__ == "__main__":
     main()
