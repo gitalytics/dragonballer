@@ -11,6 +11,7 @@ def main():
     this does stuff all the time anytime any place
     """
     say_hello()
+    say_hello('Cream Cheez')
 
 def say_hello(name="World"):
     """
