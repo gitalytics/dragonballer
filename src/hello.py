@@ -10,7 +10,7 @@ def main():
 
     this does stuff all the time anytime any place
     """
-    print('Hello, World!')
+    say_hello()
 
 def say_hello():
     """
