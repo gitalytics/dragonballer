@@ -12,3 +12,9 @@ provided by this repository.
 
   - between 35c67eb68f1a8ba5d9829617769fed5f190669ec and
     387c2d30b99a573b1dd45140f3da8f00a6c7f90a
+
+- a simple feature branch with some intermitent activity on the master
+  branch:
+
+  - between d8d5bf4dba7615405351f3eade39de777faf39a1 and
+    1f701d419d949b6d55749962207404745a30763e
