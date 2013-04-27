@@ -15,6 +15,8 @@ def main():
 def say_hello():
     """
     say_hello
+
+    this function will print out a nice hello world message
     """
     print('Hello, World!')
 
