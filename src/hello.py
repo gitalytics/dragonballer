@@ -21,5 +21,8 @@ def say_hello(name="World"):
     """
     print('Hello, ' + name + '!')
 
+def pig_sound():
+    return 'oink!'
+
 if __name__ == "__main__":
     main()
