@@ -19,7 +19,7 @@ def say_hello(name="World"):
 
     this function will print out a nice hello world message
     """
-    print('Hello, ' + name + '!')
+    print('Hello, %s !' % name)
 
 def pig_sound():
     """

@@ -37,3 +37,6 @@ provided by this repository.
     ade25d2b59e81dae08044a6d27fcf3b63019164e (minimal)
   - between 4dec1250914260e82d3cfd41c28d434adfc05567 and
     ade25d2b59e81dae08044a6d27fcf3b63019164e (non-minimal)
+
+- a feature branch that merges commits from the master branch into itself
+  before later being merged back into the master branch:
