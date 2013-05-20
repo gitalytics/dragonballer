@@ -1,10 +1,10 @@
 # dragonballer
 
-a test repo for the gitalytics magic
+A test repo for the gitalytics magic
 
 ## Branching
 
-this repository seeks to provide some interesting branching activity in its
+This repository seeks to provide some interesting branching activity in its
 history. This section details some of the branching structures that are
 provided by this repository.
 
