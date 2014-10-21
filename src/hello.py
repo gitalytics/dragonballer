@@ -29,5 +29,8 @@ def pig_sound():
     """
     return 'oink!'
 
+def pig_greating():
+    print('%s %s!' % [pig_sound(),pig_sound()])
+
 if __name__ == "__main__":
     main()
