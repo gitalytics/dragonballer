@@ -1,6 +1,6 @@
 # dragonballer
 
-A test repo for the gitalytics magic
+a test repo for the gitalytics magic
 
 ## Branching
 
