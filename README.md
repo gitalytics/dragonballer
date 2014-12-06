@@ -49,9 +49,9 @@ provided by this repository.
 
 ```
 // this type of file linking works in github
-- [`hello.py`](src/hello.py)
+[`hello.py`](src/hello.py)
 // this doesn't, it isn't the actual path
-- [`file.txt`](https://github.com/gitalytics/dragonballer/src/file.txt)
+[`file.txt`](https://github.com/gitalytics/dragonballer/src/file.txt)
 // this is equivalent to the first link
-- [`hello.py`](https://github.com/gitalytics/dragonballer/blob/master/src/hello.py)
+[`hello.py`](https://github.com/gitalytics/dragonballer/blob/master/src/hello.py)
 ```
